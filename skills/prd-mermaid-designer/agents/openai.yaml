@@ -1,0 +1,7 @@
+interface:
+  display_name: "PRD Mermaid Designer"
+  short_description: "自动生成需求文档、产品设计与 Mermaid 图表"
+  default_prompt: "使用 $prd-mermaid-designer 为一个新的产品想法生成结构化 PRD、产品设计说明和 Mermaid 图表。"
+
+policy:
+  allow_implicit_invocation: true
