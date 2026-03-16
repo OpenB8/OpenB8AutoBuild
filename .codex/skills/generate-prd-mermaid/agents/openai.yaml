@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求与产品设计生成"
+  short_description: "将模糊项目想法整理为结构化需求、产品设计与 Mermaid 图表"
+  default_prompt: "使用 $generate-prd-mermaid，根据我的项目描述生成需求文档、产品设计骨架和 Mermaid 图表。"
